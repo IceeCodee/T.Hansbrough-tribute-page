@@ -1,0 +1,124 @@
+#image{
+  max-width: 100%;
+  display: block;
+}
+
+body{
+background-color: #99badd;
+line-height: 1.5;
+text-align: center;
+}
+ul{
+  list-style: none;
+}
+
+#title{
+background-color: #99badd;
+  text-align: center;
+  letter-spacing: 3px;
+
+}
+
+h1{
+  font-size: 60px;
+
+}
+
+h3{
+  text-align: center;
+  font-size: 25px;
+}
+
+#nickname{
+  font-style: italic;
+  font-size: 30px;
+  margin-top: -40px;
+  letter-spacing: 2px;
+
+}
+
+#tribute-info{
+  background-color: #99badd;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+#img-caption{
+  padding: 5px;
+  font-style: italic;
+  text-align: center;
+
+}
+#img-div{
+ padding: 15px;
+background-color: white;
+width: 70%;
+margin: auto;
+}
+
+#img-div2{
+ padding: 15px;
+background-color: white;
+width: 40%;
+margin: auto;
+}
+
+
+.bold{
+  font-weight: bold;
+}
+
+.gallery{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  }
+
+.gallery img{
+  margin-top: 25px;
+  margin-bottom: 25px;
+ background-color: white;
+  padding: 10px;
+  justify-content: center;
+}
+
+.pic{
+  background-color:white;
+  padding: 7px;
+  align-items: center;
+}
+
+.last-section1{
+  display: flex;
+  align-items: center;
+  font-stretch: extra-condensed;
+  width: 60%;
+ float: right;
+ padding-right: 50px;
+}
+
+.last-section2{
+  display: flex;
+  align-items: center;
+  font-stretch: extra-condensed;
+  width: 50%;
+  padding-left: 50px;
+
+}
+
+
+#text{
+background-color: #99badd;
+align-content: center;
+margin: 7px;
+}
+
+br{
+  line-height: 20px;
+}
+footer{
+  text-align: left;
+}
